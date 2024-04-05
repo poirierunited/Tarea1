@@ -26,3 +26,5 @@
 8. cd
 - change directory, cd .. -> vuelve a la carptea anterior
 - cd nombre-carpeta -> ingresa a la carpeta.
+
+9. Test
